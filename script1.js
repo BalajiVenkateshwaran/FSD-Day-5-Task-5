@@ -1,6 +1,5 @@
 // Create Own Resume Data in JSON Format
 
-
 var resumeDetails = { 
     "firstName" : "Balaji Venkateshwaran",
     "lastName": "Panchatsaram",

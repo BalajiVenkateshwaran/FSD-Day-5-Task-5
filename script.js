@@ -63,4 +63,4 @@ var data = [{
     "techUsedInProject" : "ReactJS, AntDesign, MaterialUI, TailWindCSS"
 }];
 
-data.forEach((keyvalues) => console.log(keyvalues));
+data.forEach((keyvalue) => console.log(keyvalue));
